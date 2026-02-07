@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\clarkianbautista5-maker\Integrative-Programming-Projects\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe.config
+C:\Users\PC\source\repos\clarkianbautista5-maker\Integrative-Programming-Projects\ComputeAverageApp\bin\Debug\ComputeAverageApp.exe
+C:\Users\PC\source\repos\clarkianbautista5-maker\Integrative-Programming-Projects\ComputeAverageApp\bin\Debug\ComputeAverageApp.pdb
+C:\Users\PC\source\repos\clarkianbautista5-maker\Integrative-Programming-Projects\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\clarkianbautista5-maker\Integrative-Programming-Projects\ComputeAverageApp\obj\Debug\ComputeAverageApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\clarkianbautista5-maker\Integrative-Programming-Projects\ComputeAverageApp\obj\Debug\ComputeAverageApp.exe
+C:\Users\PC\source\repos\clarkianbautista5-maker\Integrative-Programming-Projects\ComputeAverageApp\obj\Debug\ComputeAverageApp.pdb
