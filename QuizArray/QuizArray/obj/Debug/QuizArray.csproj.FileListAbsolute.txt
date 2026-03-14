@@ -1,0 +1,10 @@
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\bin\Debug\QuizArray.exe.config
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\bin\Debug\QuizArray.exe
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\bin\Debug\QuizArray.pdb
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\obj\Debug\QuizArray.csproj.AssemblyReference.cache
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\obj\Debug\QuizArray.Form1.resources
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\obj\Debug\QuizArray.Properties.Resources.resources
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\obj\Debug\QuizArray.csproj.GenerateResource.cache
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\obj\Debug\QuizArray.csproj.CoreCompileInputs.cache
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\obj\Debug\QuizArray.exe
+C:\Users\Bautista.309855\source\repos\QuizArray\QuizArray\obj\Debug\QuizArray.pdb
