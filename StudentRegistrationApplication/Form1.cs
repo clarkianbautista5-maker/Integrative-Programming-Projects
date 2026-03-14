@@ -50,7 +50,7 @@ namespace StudentRegistrationApplication
             cmbYear.Text = "-Year-";
 
             String[] courses = { "BS Computer Science", "BS Information Technology", "BS Computer Engineering",
-                                 "BS Education", "Hospitality Management", "Tourism Management" };
+                                 "BS Education", "Hospitality Management", "Tourism Management", "BS Information Sytem" };
             foreach (String course in courses)
             {
                 cmbCourse.Items.Add(course);
@@ -86,6 +86,11 @@ namespace StudentRegistrationApplication
 
             MessageBox.Show(message, "Registration Successful", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
+
+        }
+
+        private void cmbCourse_SelectedIndexChanged(object sender, EventArgs e)
+        {
 
         }
     }

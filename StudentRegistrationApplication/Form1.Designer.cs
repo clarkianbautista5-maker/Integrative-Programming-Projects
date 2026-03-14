@@ -213,6 +213,7 @@
             this.cmbCourse.Name = "cmbCourse";
             this.cmbCourse.Size = new System.Drawing.Size(234, 23);
             this.cmbCourse.TabIndex = 17;
+            this.cmbCourse.SelectedIndexChanged += new System.EventHandler(this.cmbCourse_SelectedIndexChanged);
             // 
             // label7
             // 
@@ -221,9 +222,9 @@
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(11, 251);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(56, 16);
+            this.label7.Size = new System.Drawing.Size(130, 16);
             this.label7.TabIndex = 18;
-            this.label7.Text = "Course";
+            this.label7.Text = "Program to apply ";
             // 
             // frmStudentRegistration
             // 
