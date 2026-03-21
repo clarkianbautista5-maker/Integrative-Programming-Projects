@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\GuessWordApplication\bin\Debug\GuessWordApplication.exe.config
+C:\Users\PC\source\repos\GuessWordApplication\bin\Debug\GuessWordApplication.exe
+C:\Users\PC\source\repos\GuessWordApplication\bin\Debug\GuessWordApplication.pdb
+C:\Users\PC\source\repos\GuessWordApplication\obj\Debug\GuessWordApplication.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\GuessWordApplication\obj\Debug\GuessWordApplication.frmGuessWord.resources
+C:\Users\PC\source\repos\GuessWordApplication\obj\Debug\GuessWordApplication.Properties.Resources.resources
+C:\Users\PC\source\repos\GuessWordApplication\obj\Debug\GuessWordApplication.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GuessWordApplication\obj\Debug\GuessWordApplication.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\GuessWordApplication\obj\Debug\GuessWordApplication.exe
+C:\Users\PC\source\repos\GuessWordApplication\obj\Debug\GuessWordApplication.pdb
