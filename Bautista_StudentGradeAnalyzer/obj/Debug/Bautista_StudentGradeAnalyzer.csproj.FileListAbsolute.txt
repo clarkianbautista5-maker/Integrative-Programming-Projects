@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\bin\Debug\Bautista_StudentGradeAnalyzer.exe.config
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\bin\Debug\Bautista_StudentGradeAnalyzer.exe
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\bin\Debug\Bautista_StudentGradeAnalyzer.pdb
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\obj\Debug\Bautista_StudentGradeAnalyzer.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\obj\Debug\Bautista_StudentGradeAnalyzer.studentgradefrm.resources
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\obj\Debug\Bautista_StudentGradeAnalyzer.Properties.Resources.resources
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\obj\Debug\Bautista_StudentGradeAnalyzer.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\obj\Debug\Bautista_StudentGradeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\obj\Debug\Bautista_StudentGradeAnalyzer.exe
+C:\Users\PC\source\repos\Bautista_StudentGradeAnalyzer\obj\Debug\Bautista_StudentGradeAnalyzer.pdb
