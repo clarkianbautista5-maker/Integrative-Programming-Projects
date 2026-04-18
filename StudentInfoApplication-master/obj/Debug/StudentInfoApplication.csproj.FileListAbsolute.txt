@@ -1,0 +1,10 @@
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\bin\Debug\StudentInfoApplication.exe.config
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\bin\Debug\StudentInfoApplication.exe
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\bin\Debug\StudentInfoApplication.pdb
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\obj\Debug\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\obj\Debug\StudentInfoApplication.exe
+C:\Users\Bautista.309855\Downloads\StudentInfoApplication-master\StudentInfoApplication-master\obj\Debug\StudentInfoApplication.pdb
