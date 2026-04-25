@@ -1,0 +1,10 @@
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
+C:\Users\Bautista.309855\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.frmEmployeeDatabase.resources
