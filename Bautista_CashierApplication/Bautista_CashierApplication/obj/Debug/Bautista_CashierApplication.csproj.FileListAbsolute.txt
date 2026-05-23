@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\bin\Debug\Bautista_CashierApplication.exe.config
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\bin\Debug\Bautista_CashierApplication.exe
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\bin\Debug\Bautista_CashierApplication.pdb
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\obj\Debug\Bautista_CashierApplication.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\obj\Debug\CashierApplication.Form1.resources
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\obj\Debug\Bautista_CashierApplication.Properties.Resources.resources
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\obj\Debug\Bautista_CashierApplication.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\obj\Debug\Bautista_CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\obj\Debug\Bautista_CashierApplication.exe
+C:\Users\PC\source\repos\Bautista_CashierApplication\Bautista_CashierApplication\obj\Debug\Bautista_CashierApplication.pdb
