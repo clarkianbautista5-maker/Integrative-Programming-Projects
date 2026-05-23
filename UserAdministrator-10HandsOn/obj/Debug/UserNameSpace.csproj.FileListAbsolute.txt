@@ -1,0 +1,10 @@
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\bin\Debug\10HandsOn-Inheritance.exe.config
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\bin\Debug\10HandsOn-Inheritance.exe
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\bin\Debug\10HandsOn-Inheritance.pdb
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\obj\Debug\UserNameSpace.csproj.AssemblyReference.cache
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\obj\Debug\_10HandsOn_Inheritance.Form1.resources
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\obj\Debug\_10HandsOn_Inheritance.Properties.Resources.resources
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\obj\Debug\UserNameSpace.csproj.GenerateResource.cache
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\obj\Debug\UserNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\obj\Debug\10HandsOn-Inheritance.exe
+C:\Users\Bautista.309855\Source\Repos\UserAdministrator-10HandsOn\obj\Debug\10HandsOn-Inheritance.pdb
