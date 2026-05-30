@@ -1,0 +1,11 @@
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\bin\Debug\10TP_Payroll-Bautista.exe.config
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\bin\Debug\10TP_Payroll-Bautista.exe
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\bin\Debug\10TP_Payroll-Bautista.pdb
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\obj\Debug\10TP_Payroll-Bautista.csproj.AssemblyReference.cache
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\obj\Debug\_10TP_Payroll_Bautista.Form1.resources
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\obj\Debug\_10TP_Payroll_Bautista.frmLogin.resources
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\obj\Debug\_10TP_Payroll_Bautista.Properties.Resources.resources
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\obj\Debug\10TP_Payroll-Bautista.csproj.GenerateResource.cache
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\obj\Debug\10TP_Payroll-Bautista.csproj.CoreCompileInputs.cache
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\obj\Debug\10TP_Payroll-Bautista.exe
+C:\Users\Bautista.309855\Downloads\10TP_Payroll-Bautista-master\10TP_Payroll-Bautista-master\obj\Debug\10TP_Payroll-Bautista.pdb
